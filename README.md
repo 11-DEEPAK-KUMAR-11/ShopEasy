@@ -161,6 +161,6 @@ E-commerce Application that is used for the buying and selling of products. This
 
 ---
 
-![6](https://user-images.githubusercontent.com/36689521/204778350-49507557-c070-477b-a571-052fc593ea72.jpg)
+<-- ![6](https://user-images.githubusercontent.com/36689521/204778350-49507557-c070-477b-a571-052fc593ea72.jpg) -->
 
 ---
