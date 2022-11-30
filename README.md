@@ -66,18 +66,18 @@ E-commerce Application
 - Change the port number, username, and password to match your local database configuration.
 
 ```
-    server.port=8880
+    server.port=8889
 
-    spring.datasource.url=jdbc:mysql://localhost:3306/shop2home;
+    spring.datasource.url=jdbc:mysql://localhost:3306/shopEasy;
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
-    spring.datasource.username=dbusername
-    spring.datasource.password=dbpassword
+    spring.datasource.username=root
+    spring.datasource.password=3511
 
 ```
 
 ## API Root Endpoint
 
-`http://localhost:8880/swagger-ui/`
+`http://localhost:8889/swagger-ui/`
 
 ## API Module Endpoints
 
@@ -87,14 +87,14 @@ E-commerce Application
 
 ### Sample API Response for Customer Login
 
-`POST localhost:8080/admin/login`
+`POST localhost:8089/admin/login`
 
 - Request Body
 
 ```
 	{
   		"adminId": 1,
-  		"password": "rishabh123"
+  		"password": "qwerty123"
 	}
 ```
 
@@ -113,7 +113,9 @@ E-commerce Application
 
 ---
 
-![E-R Diagram](https://user-images.githubusercontent.com/36689521/204775807-af1af7f7-e7a4-4cf5-ba44-f8d145512229.png)
+<!-- ![E-R Diagram](https://user-images.githubusercontent.com/36689521/204775807-af1af7f7-e7a4-4cf5-ba44-f8d145512229.png) -->
+![ER-3](https://user-images.githubusercontent.com/101390725/204780741-7c8f1719-aef2-487e-b71c-47bfb03473c1.png)
+
 
 ---
 
