@@ -1,6 +1,8 @@
 # ShopEasy
 E-commerce Application
 
+E-commerce Application that is used for the buying and selling of products. This application can be used by various buyers and sellers to buy or sale products.
+
 
 ## Tech Stack
 
