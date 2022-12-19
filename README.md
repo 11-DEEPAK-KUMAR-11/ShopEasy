@@ -59,7 +59,7 @@ E-commerce Application that is used for the buying and selling of products. This
 
   - On the platform, a customer can register and update their details.
   - Customer can add the product to the cart.
-  - After adding the product to a cart, he can by a product.  
+  - After adding the product to a cart, he can buy a product.  
   - The customer has the option to remove the product from the cart.
 
 ## Installation & Run
