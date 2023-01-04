@@ -34,11 +34,10 @@ E-commerce Application that is used for the buying and selling of products. This
 
 - Product List
 - Add new products
-- Manage Quantities
-- Order management
-- See orders, details of orders
+- Update Products
+<-- - See orders, details of orders
 - Search by user details ( phone, email, name, id )
-- Search by order
+- Search by order -->
 - User management
 - See users, and details
 - admin and users ( different login )
