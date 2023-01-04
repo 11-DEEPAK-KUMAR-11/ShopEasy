@@ -22,7 +22,6 @@ E-commerce Application that is used for the buying and selling of products. This
 
 - Search functionality
 - Search by category
-- See individual product page
 - Add to cart
 - See cart details and total price in it
 - Make a purchase, and track status
