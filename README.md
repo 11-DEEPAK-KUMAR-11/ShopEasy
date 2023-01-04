@@ -20,7 +20,6 @@ E-commerce Application that is used for the buying and selling of products. This
 
 # User should  be able to perform below operations:  
 
-- Landing Page
 - Search functionality
 - Search by category
 - See individual product page
