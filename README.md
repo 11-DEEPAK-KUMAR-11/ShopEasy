@@ -58,7 +58,7 @@ E-commerce Application that is used for the buying and selling of products. This
 
 ## Installation & Run
 
-- You need update the database configuration in the [application.properties](https://github.com/rajshekar11/dangerous-smash-6971/blob/main/TripMaker/src/main/resources/application.properties) file before launching the API server.
+- You need update the database configuration in the application.properties file before launching the API server.
 - Change the port number, username, and password to match your local database configuration.
 
 ```
