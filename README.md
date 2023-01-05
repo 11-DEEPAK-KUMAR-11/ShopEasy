@@ -83,7 +83,7 @@ E-commerce Application that is used for the buying and selling of products. This
 
 ### Sample API Response for Customer Login
 
-`POST localhost:8089/admin/login`
+`POST localhost:8889/admin/login`
 
 - Request Body
 
@@ -97,7 +97,7 @@ E-commerce Application that is used for the buying and selling of products. This
 - Response
 
 ```
-   CurrentAdminSession(userId=2, uuid=WcEy8Z, localDateTime=2022-11-30T16:01:29.137960400)
+   CurrentAdminSession(userId=1, uuid=WcE5yu, localDateTime=2023-01-05T16:15:45.145960400)
 
 ```
 
@@ -109,7 +109,7 @@ E-commerce Application that is used for the buying and selling of products. This
 
 ---
 
-<!-- ![E-R Diagram](https://user-images.githubusercontent.com/36689521/204775807-af1af7f7-e7a4-4cf5-ba44-f8d145512229.png) -->
+
 ![ER-3](https://user-images.githubusercontent.com/101390725/204780741-7c8f1719-aef2-487e-b71c-47bfb03473c1.png)
 
 
